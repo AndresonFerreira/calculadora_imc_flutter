@@ -1,4 +1,4 @@
-# cauculadora_de_imc
+# Calculadora de IMC 
 
 Aplicativo desenvolvido em Flutter
 
